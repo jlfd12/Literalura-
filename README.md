@@ -95,3 +95,6 @@ Joanna L. Fernandez
 ![joannafd](https://github.com/jlfd12/Conversor-de-Monedas/assets/67215733/2d1de9ef-b76b-44a1-ac8c-2f60107de2f7)
 
 
+![badge literalura](https://github.com/jlfd12/Literalura-/assets/67215733/d1fd14a5-1e25-43ca-8b0f-9e2fc8cc7b86)
+
+
